@@ -15,6 +15,9 @@ or
 yarn add react-cuboid
 ``` 
 
+## Demo
+![cube](https://user-images.githubusercontent.com/22329040/141131481-f58023a2-56dc-4bf7-8464-3fec9851275b.gif)
+
 ## Usage
 
 ### Cuboid example
